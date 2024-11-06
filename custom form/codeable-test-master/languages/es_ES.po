@@ -1,0 +1,69 @@
+#. Plugin Name of the plugin
+msgid "Codeable Test"
+msgstr ""
+
+#. Description of the plugin
+msgid "This Plugin is a test project for Codeable. It registers two shortcodes ([codeable_test_form] and [codeable_test_entries])."
+msgstr ""
+
+#. Author of the plugin
+msgid "Josefina Lucía Cáceres"
+msgstr ""
+
+#: codeable-test.php:26
+msgid "Thank you for sending us your feedback"
+msgstr "Muchas gracias por dejarnos tus comentarios"
+
+#: codeable-test.php:27
+msgid "An error has occured, please try again soon"
+msgstr "Ocurrió un error, por favor inténtelo nuevamente pronto"
+
+#: codeable-test.php:58
+#: codeable-test.php:139
+#: codeable-test.php:216
+#: codeable-test.php:383
+msgid "First Name"
+msgstr "Nombre"
+
+#: codeable-test.php:59
+#: codeable-test.php:140
+#: codeable-test.php:217
+#: codeable-test.php:384
+msgid "Last Name"
+msgstr "Apellido"
+
+#: codeable-test.php:60
+#: codeable-test.php:141
+#: codeable-test.php:218
+#: codeable-test.php:385
+msgid "Email"
+msgstr "Email"
+
+#: codeable-test.php:61
+#: codeable-test.php:142
+#: codeable-test.php:219
+#: codeable-test.php:386
+msgid "Subject"
+msgstr "Asunto"
+
+#: codeable-test.php:62
+#: codeable-test.php:143
+#: codeable-test.php:220
+msgid "Message"
+msgstr "Mensaje"
+
+#: codeable-test.php:63
+msgid "Send"
+msgstr "Enviar"
+
+#: codeable-test.php:101
+msgid "Custom Form"
+msgstr "Form Personalizado"
+
+#: codeable-test.php:124
+msgid "Entry Data"
+msgstr "Datos de Entrada"
+
+#: codeable-test.php:256
+msgid "Form Entry"
+msgstr "Entrada de Formulario"
